@@ -1,0 +1,2 @@
+section 4 programming network scanner
+- lebih banyak menggunakan scapy untuk mengetahui ip dan alamat mac
