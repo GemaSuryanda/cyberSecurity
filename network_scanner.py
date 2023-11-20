@@ -32,4 +32,4 @@ def scan(ip):
 # scan_result = scan(options.target)
 # print_result(scan_result)
 
-scan('172.26.229.1/24')
+scan('172.31.162.1/24')
