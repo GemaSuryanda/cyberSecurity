@@ -1,1 +1,1 @@
-print("hyyy ini merupakan cara untuk menampilkan tulisan python di command line")
+print("ini merupakan gema suryanda sang programmer")
