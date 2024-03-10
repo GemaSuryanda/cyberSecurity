@@ -1,0 +1,1 @@
+print("bahasa pemrograman python")
