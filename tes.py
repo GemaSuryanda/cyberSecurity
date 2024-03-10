@@ -1,0 +1,1 @@
+print("hyyy ini merupakan cara untuk menampilkan tulisan python di command line")
